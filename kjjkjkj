@@ -58,4 +58,4 @@ async def rank(ctx, member: discord.Member = None):
  
 ##### END LEVEL COMMAND #####
  
-bot.run('OTE5MTcyMDE5NjkyNjQyMzM4.YbR7pg.HiaaJnOjAbqQY1BVOULnnMzEJQo')
+bot.run('OTE5MTcyMDE5NjkyNjQyMzM4.YbR7pg.iROK6Kz6mYeNr5ZX3vQAxUd4e-w')
